@@ -1,0 +1,23 @@
+.odd
+{
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: #ffcccb;
+}
+
+#color-example
+{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.larger-font
+{
+    font-size: 36px;
+}
+
+#background-example
+{
+    background-color: #90EE90;
+    font-weight: bold;
+    font-size: 24px;
+}
